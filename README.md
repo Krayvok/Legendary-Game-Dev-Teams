@@ -11,5 +11,5 @@ A complete list of game titles, and the photos related.
 I encourage you to help submit photos. Please create a MR with any photos or game titles that you would like added to this list.
 
 ##### Inspriation for project.
-Stemmed from the following [https://imgur.com/a/photos-of-legendary-game-development-teams-soOgcEV](images).
+Stemmed from the following [images](https://imgur.com/a/photos-of-legendary-game-development-teams-soOgcEV).
 
